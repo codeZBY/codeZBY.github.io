@@ -1,0 +1,24 @@
+{
+  "name": "lww.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeZBY/lww.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeZBY/lww.github.io/issues"
+  },
+  "homepage": "https://github.com/codeZBY/lww.github.io#readme",
+  "devDependencies": {
+    "mockjs": "^1.0.1-beta3",
+    "nodemon": "^1.18.9"
+  }
+}
